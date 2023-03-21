@@ -20,7 +20,7 @@ For this project we were assigned to solve any problem with a robotic arm. We de
 - 9 volt battery (and case) 
 
 ## Wiring 
-![Screenshot (19)](https://user-images.githubusercontent.com/71406903/226720452-2e203c2a-5762-41f5-9356-91e827f55423.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/71406903/226720688-e2d9b6da-e5a8-4aaf-bd68-35bd76b62acd.png)
 
 ## Code 
 ```import time

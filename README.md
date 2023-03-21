@@ -4,7 +4,7 @@
 For this project we were assigned to solve any problem with a robotic arm. We decided to solve the problem of turning the pages of a book. Whenever your hands are full or tired, the robot will turn the page with the press of a button! The robot can turn your pages both forward and backward to make sure that book is read exactly how you want. 
 
 ## Plan
-[Link to google document about planning](https://docs.google.com/document/d/1uazbonK2YwQbwLo_14c-oHcuRzRMN066gJCfVLczz6s/edit?usp=sharing)
+[Link to Planning Document](https://docs.google.com/document/d/1uazbonK2YwQbwLo_14c-oHcuRzRMN066gJCfVLczz6s/edit?usp=sharing)
 
 ## List of Materials 
 - Acrylic sheets 
@@ -16,8 +16,9 @@ For this project we were assigned to solve any problem with a robotic arm. We de
 - Buttons
 - Switch
 - Led 
-- Screws 
-- 9 volt battery (and case) 
+- Screws/Nuts
+- 6 volt batteries (and case) 
+- Binder Clips (optional) 
 
 ## Wiring 
 ![Screenshot (19)](https://user-images.githubusercontent.com/71406903/226720688-e2d9b6da-e5a8-4aaf-bd68-35bd76b62acd.png)
@@ -129,7 +130,7 @@ while True:
 ```
 
 ## Design 
-[link to OnShape design](https://cvilleschools.onshape.com/documents/01a062a01cddf5eb5958f3b2/w/d8f47f2354e056dddd10364c/e/1d6924a5a86b305411a16dc0?renderMode=0&uiState=641a05a887911329f0cfaed9)
+[Link to OnShape Design](https://cvilleschools.onshape.com/documents/01a062a01cddf5eb5958f3b2/w/d8f47f2354e056dddd10364c/e/1d6924a5a86b305411a16dc0?renderMode=0&uiState=641a05a887911329f0cfaed9)
 
 For our design we used 4 sheets of acrylic to creat a sloped box which can hold a box of the top. We used 3 different servos; a standard servo which would change the position of the wheel depending on whihc was you wanted to turn the book, a continuous standard servo which had a wheel attached to turn up the page, and a micro servo which was a little arm to flip the page at the end. 
 
@@ -138,7 +139,7 @@ For our design we used 4 sheets of acrylic to creat a sloped box which can hold 
 ![Timer Top](images/timertop.JPG)
 
 ## Problems/Limitations 
-During this project we ran into a few problems but nothing too major. For the code there was a problem with VScode on the computer so we had to switch to MU which wasn't bad because they both use CircuitPython. Also with the code in the end we realized that the servo that positioned the wheel was going to far and it would have to be different for each book size. We addressed the problem so it wouldn't turn to far, however we didn't fully get to make the robot work for alkl different sizes of books, but if we had more time we would've used a potentiometer to change the positioning of the wheel to its desired location. On the CAD side of things after we printed we realized that in OnShape the acrylic was angled at a cartain degree and the laser cutter isn't able to cut the edge like that so we had to sand it down to get it to our desired angle. We also realized that we had used box joints instead od laser joints so our friction-fit pieces were lose. To fix that it wasn't too hard we just increased the width of the pieces by 0.16mm so when we reprinted the pieces fit in perfectly. The only limitations we had was a limited amount of time to finish the project, winter break, and a limited amount of materials. Overall none of these problems were a huge deal in our project just minor issues that we had to address. 
+During this project we ran into a few problems but nothing too major. For the code there was a problem with VScode on the computer so we had to switch to MU which wasn't bad because they both use CircuitPython. Also with the code in the end we realized that the servo that positioned the wheel was going to far and it would have to be different for each book size. We addressed the problem so it wouldn't turn to far, however we didn't fully get to make the robot work for alkl different sizes of books, but if we had more time we would've used a potentiometer to change the positioning of the wheel to its desired location. On the CAD side of things after we printed we realized that in OnShape the acrylic was angled at a cartain degree and the laser cutter isn't able to cut the edge like that so we had to sand it down to get it to our desired angle. We also realized that we had used box joints instead of laser joints so our friction-fit pieces were lose. To fix that it wasn't too hard we just increased the width of the pieces by 0.16mm so when we reprinted the pieces fit in perfectly. The only limitations we had was a limited amount of time to finish the project, winter break, and a limited amount of materials. Overall none of these problems were a huge deal in our project just minor issues that we had to address. 
 
 ## Reflection
 Overall this project was pretty fun, we got to explore how to do many new things healping stengthen our knowledge in both CAD and code. This year we switched to CircuitPython so this project yhelped us get better at how to code using VScode and MU. For CAD we learnt that when connecting laser cut parts at an angle you need to cut the edges shorter so they will not over lap. We worked very well together trhoughout this projetc splitting it up equally as we both worked to create a working arm. We were able to create a robot to move the pages of a book, however we ran out of time to make the robot work for all different kinds of books, but we know what we would do if we ever had to do this project again. If we did this project again we would probably change the design of the "box" and add a potentiometer to get the positioning of the wheel right for all different kinds of books. This project was very fun and we learned many new skills along the way.

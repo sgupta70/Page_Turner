@@ -20,7 +20,7 @@ For this project we were assigned to solve any problem with a robotic arm. We de
 - 9 volt battery (and case) 
 
 ## Wiring 
-![Wiring](images/wire.jpg)
+![Screenshot (19)](https://user-images.githubusercontent.com/71406903/226720452-2e203c2a-5762-41f5-9356-91e827f55423.png)
 
 ## Code 
 ```import time
@@ -129,7 +129,7 @@ while True:
 ```
 
 ## Design 
-[link to OnShape design](https://cvilleschools.onshape.com/documents/f0e050e31ed30559f61d16f6/w/8df2d4cb2d1d1daf7c273573/e/957ccaf17a0f9f7b748abea0)
+[link to OnShape design](https://cvilleschools.onshape.com/documents/01a062a01cddf5eb5958f3b2/w/d8f47f2354e056dddd10364c/e/1d6924a5a86b305411a16dc0?renderMode=0&uiState=641a05a887911329f0cfaed9)
 
 For our design we used 4 sheets of acrylic to creat a sloped box which can hold a box of the top. We used 3 different servos; a standard servo which would change the position of the wheel depending on whihc was you wanted to turn the book, a continuous standard servo which had a wheel attached to turn up the page, and a micro servo which was a little arm to flip the page at the end. 
 

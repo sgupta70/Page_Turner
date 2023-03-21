@@ -135,8 +135,10 @@ while True:
 For our design we used 4 sheets of acrylic to creat a sloped box which can hold a box of the top. We used 3 different servos; a standard servo which would change the position of the wheel depending on whihc was you wanted to turn the book, a continuous standard servo which had a wheel attached to turn up the page, and a micro servo which was a little arm to flip the page at the end. 
 
 ## Pictures
-![Timer](images/timer1.JPG)
-![Timer Top](images/timertop.JPG)
+![IMG-1387](https://user-images.githubusercontent.com/71406903/226722292-77394f71-088f-4ee6-abc7-5b80fffda8a7.jpg)
+![IMG-1388](https://user-images.githubusercontent.com/71406903/226722373-69d73415-9304-455d-a0ea-791310243df5.jpg)
+![IMG-1389](https://user-images.githubusercontent.com/71406903/226722420-f2df5f98-77da-423e-8e64-28e486d03b7f.jpg)
+
 
 ## Problems/Limitations 
 During this project we ran into a few problems but nothing too major. For the code there was a problem with VScode on the computer so we had to switch to MU which wasn't bad because they both use CircuitPython. Also with the code in the end we realized that the servo that positioned the wheel was going to far and it would have to be different for each book size. We addressed the problem so it wouldn't turn to far, however we didn't fully get to make the robot work for alkl different sizes of books, but if we had more time we would've used a potentiometer to change the positioning of the wheel to its desired location. On the CAD side of things after we printed we realized that in OnShape the acrylic was angled at a cartain degree and the laser cutter isn't able to cut the edge like that so we had to sand it down to get it to our desired angle. We also realized that we had used box joints instead of laser joints so our friction-fit pieces were lose. To fix that it wasn't too hard we just increased the width of the pieces by 0.16mm so when we reprinted the pieces fit in perfectly. The only limitations we had was a limited amount of time to finish the project, winter break, and a limited amount of materials. Overall none of these problems were a huge deal in our project just minor issues that we had to address. 
